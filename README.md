@@ -21,7 +21,7 @@ did i mention im from [moldova](https://en.wikipedia.org/wiki/Moldova)? idk
 
 - [petpal](https://github.com/deneyy/petpal) - discord bot that has your pets.
 
-- [my photography website](deney.devmatei.com) - a website ~~created and hosted by [devmatei](https://github.com/DevMatei)~~ full of pictures i took by just walking around
+- [my photography website](deney.is-a.dev) - a website ~~created and hosted by [devmatei](https://github.com/DevMatei)~~ full of pictures i took by just walking around
 
 - [deney.py](https://github.com/deneyy/deney.py) - a repo full of my bs made in python (no ideas yet so im still working on it)
 
