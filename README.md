@@ -40,6 +40,6 @@ you can [email me](mailto:deneyy@proton.me), or dm me on [discord](https://disco
 
 watch me talk to myself on [x](https://x.com/deneycmd)
 
-and [send money](https://ko-fi.com/deneycmd) pls
+and [send money](https://ko-fi.com/deneycmd) plsplspls
 
 
