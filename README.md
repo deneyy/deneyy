@@ -25,7 +25,7 @@ did i mention im from [moldova](https://en.wikipedia.org/wiki/Moldova)? idk
 
 - [deney.py](https://github.com/deneyy/deney.py) - a repo full of my bs made in python (no ideas yet so im still working on it)
 
-- currently onto porting android roms
+and other tomfoolery im planning to do but i cant complete (whoops)
 
 ## what i know
 
