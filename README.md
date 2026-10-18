@@ -15,6 +15,8 @@ did i mention im from [moldova](https://en.wikipedia.org/wiki/Moldova)? idk
 
 ## stuff ive made
 
+- [my own website](https://deney.neocities.org) - basically my own ~~vibecoded~~ website
+
 - [passpad](https://passpad.vercel.app) - basically a dontpad but its less annoying cause your pages are password-protected.
 
 - [doneblox](https://doneblox.vercel.app) - a roblox 2008 revival that i made for my friend (currently shut down).
