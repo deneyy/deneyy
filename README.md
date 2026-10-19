@@ -9,7 +9,7 @@ hi im deney a really dumb dev and here are some things about me:
 
 i like computers a lot so thats what really got me into coding. ~~im still learning tho but it still counts~~ 
 
-i also like music (cant live without it), especially rock. my fav artists are [linkin park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=UfyTSkc9ToaPNi-rZ3dF0g) and [alternosfera](https://open.spotify.com/artist/2Bfpg6VC7SNEQKez2uXyuP?si=dBiBtbobTse7kQhoDnuZgA), a moldovan band. 
+i also like music (cant live without it), especially nu metal. my fav artists are [linkin park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=UfyTSkc9ToaPNi-rZ3dF0g) and [alternosfera](https://open.spotify.com/artist/2Bfpg6VC7SNEQKez2uXyuP?si=dBiBtbobTse7kQhoDnuZgA), a moldovan band. 
 
 did i mention im from [moldova](https://en.wikipedia.org/wiki/Moldova)? idk
 
