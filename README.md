@@ -7,7 +7,9 @@ hi im deney a really dumb dev and here are some things about me:
 
 ## about me
 
-i like computers a lot so thats what really got me into coding. ~~im still learning tho but it still counts~~ 
+i like computers a lot so thats what really got me into coding. ~~im still learning tho but it still counts~~
+
+i also mess around with phones a lot (roms, root, ports etc.) so while most ppl break old phones, i reuse and revive (from the dead) with some roms.
 
 i also like music (cant live without it), especially nu metal. my fav artists are [linkin park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=UfyTSkc9ToaPNi-rZ3dF0g) and [alternosfera](https://open.spotify.com/artist/2Bfpg6VC7SNEQKez2uXyuP?si=dBiBtbobTse7kQhoDnuZgA), a moldovan band. 
 
